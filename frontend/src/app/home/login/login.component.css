@@ -1,0 +1,58 @@
+.main {
+  min-height: 100vh;
+}
+
+form {
+  width: 50%;
+  margin-top: 20vh;
+}
+
+
+label {
+  font-weight: 900;
+}
+
+input {
+  width: 100%;
+  border-radius: 5px;
+  border: 0.1px solid #eee;
+  margin-bottom: 5px;
+}
+
+label {
+  color: #28a745;
+  font-weight: 900;
+}
+
+.error input {
+  background-color: rgb(241, 168, 168);
+}
+
+em {
+  color: red;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.sub-main {
+  border-radius: 10px;
+  border: 0 solid #28a745;
+}
+
+form {
+  margin-bottom: 20px;
+  background-color: #fff;
+  height: 100%;
+  padding: 5px;
+  border-radius: 10px;
+  border: 0.5px solid #28a745;
+}
+
+#log {
+  cursor: pointer;
+}
+
+.fa {
+  font-size: 1.2rem;
+  color: #450f5a;
+}
